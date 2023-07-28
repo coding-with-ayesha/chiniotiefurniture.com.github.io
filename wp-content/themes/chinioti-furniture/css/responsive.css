@@ -1,0 +1,171 @@
+@media (max-width:1399px) {
+    #menu ul li a {
+        padding: 10px 8px;
+    }
+    .cta_info a {
+        font-size: 19px;
+    }
+}
+
+@media (max-width:1199px) {
+    #menu ul li a {
+        font-size: 14px;
+    }
+    .top_right a {
+        margin-right: 10px;
+    }
+    .top_right .btn {
+        padding: 8px 14px;
+    }
+    ul.top_contact {
+        text-align: center;
+    }
+    ul.top_contact li {
+        margin-right: 10px;
+        padding: 0 0 0 40px;
+    }
+    ul.top_contact li i {
+        font-size: 32px;
+        top: 1px;
+    }
+}
+
+@media (max-width:1024px) {}
+
+@media (max-width:991px) {
+    .menubar {
+        padding: 15px 0;
+    }
+    /* .top_right {margin: 20px 0 0;} */
+    ul.top_contact {
+        margin: 15px 0 0;
+    }
+    ul.top_contact li {
+        margin-right: 15px;
+    }
+    ul.top_contact li:nth-child(2) {
+        margin: 0;
+    }
+    ul.top_contact li:last-child {
+        display: none;
+    }
+    .logo {
+        max-width: 160px;
+    }
+    .top_right {
+        padding-right: 55px;
+    }
+    .top_right a {
+        margin: 0;
+    }
+    .top_right .furniture_btn {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        border-radius: 0;
+        font-size: 16px;
+        padding: 15px;
+        z-index: 99;
+        display: none;
+    }
+    .search_wrap .form-control {
+        font-size: 20px;
+    }
+    .about_img {
+        max-width: 400px;
+        margin: 0 0 30px;
+    }
+    .cta_contents {
+        text-align: center;
+        padding: 30px;
+    }
+    .cta_contents p {
+        margin: 0 0 25px;
+    }
+    .cta_info a {
+        margin: 0 0 7px;
+    }
+    .whatsapp_btn {
+        bottom: 20px;
+        right: 20px;
+    }
+    /* footer [class*=col-] {margin-bottom: 30px;}
+footer [class*=col-]:last-child {margin-bottom: 0;} */
+    .detail_contents {
+        padding: 35px 0 0;
+    }
+    .copyrights {
+        margin: 30px 0 0;
+    }
+}
+
+@media (max-width:767px) {
+    .topbar {
+        padding: 12px 0 14px;
+    }
+    #homeslider .owl-prev,
+    #homeslider .owl-next {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        font-size: 22px;
+    }
+    #homeslider .owl-prev {
+        left: 10px;
+    }
+    #homeslider .owl-next {
+        right: 10px;
+    }
+    .products_slider .owl-nav button.owl-prev,
+    .products_slider .owl-nav button.owl-next {
+        width: 32px;
+        height: 32px;
+        font-size: 20px;
+        line-height: 30px;
+        top: -45px;
+    }
+    .products_slider .owl-nav .owl-prev {
+        right: 42px;
+    }
+    .whatsapp_btn img {
+        max-width: 55px;
+    }
+}
+
+@media (max-width:667px) {}
+
+@media (max-width:580px) {}
+
+@media (max-width:575px) {}
+
+@media (max-width:480px) {
+    ul.top_contact {
+        font-size: 15px;
+    }
+    .search_wrap {
+        padding: 0 10px;
+    }
+    .search_wrap .form-control {
+        font-size: 18px;
+        min-height: 65px;
+    }
+    .search_wrap .btn {
+        padding-top: 10px;
+    }
+    .cta_info a {
+        font-size: 17px;
+    }
+    .cta_info i {
+        font-size: 24px;
+    }
+    .cta_contents p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:414px) {}
+
+@media (max-width:375px) {}
+
+@media (max-width:360px) {}
